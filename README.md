@@ -46,20 +46,6 @@ You can use or display this image in multiple ways:
 
 ---
 
-## 🧑‍💻 Contributing
-
-Want to add more awareness pages or enhance the project? Feel free to fork this repo and submit a pull request!
-
----
-
-## 📬 Contact
-
-For collaborations, feedback, or contributions, please reach out:
-
-- 📧 Email: your.email@example.com
-- 🌐 Website: [Your Portfolio or Organization](https://your-website.com)
-
----
 
 ## 📝 License
 
